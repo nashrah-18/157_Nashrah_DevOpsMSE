@@ -8,3 +8,10 @@ Create a .html file in repository:
 <img width="923" height="433" alt="image" src="https://github.com/user-attachments/assets/6986a183-71d7-4fcf-8b26-7c2b9107ff49" />
 <img width="917" height="399" alt="image" src="https://github.com/user-attachments/assets/36bf41e3-81bd-416c-be62-be82ebc913b6" />
 
+# Output 
+Q1. B:
+
+Create new branch in github and make changes to a file and push changes to the remote repository:
+
+<img width="914" height="449" alt="image" src="https://github.com/user-attachments/assets/37f9d3e9-5e97-4522-a4fe-4ac4e2f6dd8e" />
+
