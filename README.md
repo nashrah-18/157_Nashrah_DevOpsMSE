@@ -1,6 +1,8 @@
 # Output 
 Q1. A:
+
 Create a file named as your roll_number:
+<img width="907" height="449" alt="image" src="https://github.com/user-attachments/assets/66791a4f-0571-4d82-8ee0-034a60cf201a" />
 
 Create a .html file in repository:
 <img width="923" height="433" alt="image" src="https://github.com/user-attachments/assets/6986a183-71d7-4fcf-8b26-7c2b9107ff49" />
