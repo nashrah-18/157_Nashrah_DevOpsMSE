@@ -12,6 +12,6 @@ Create a .html file in repository:
 Q1. B:
 
 Create new branch in github and make changes to a file and push changes to the remote repository:
-
+<img width="1618" height="884" alt="image" src="https://github.com/user-attachments/assets/1c1d10dc-5236-4647-aab6-0d03874fd22b" />
 <img width="914" height="449" alt="image" src="https://github.com/user-attachments/assets/37f9d3e9-5e97-4522-a4fe-4ac4e2f6dd8e" />
 
